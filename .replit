@@ -1,0 +1,3 @@
+language = "java"
+run = "sh start.sh"
+modules = ["java-graalvm22.3"]
