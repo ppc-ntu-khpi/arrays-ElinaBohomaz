@@ -17,7 +17,7 @@
 - Додатково: визначити розподіл щасливих квитків за першою цифрою.
 
 ## ✅ Результат 
-
+![image](https://github.com/user-attachments/assets/5c1eb0fc-27fd-4fc2-ba4c-c782421437f2)
 
 ## 💻 Реалізація
 📦 domain/Exercise.java
